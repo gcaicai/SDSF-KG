@@ -1,0 +1,14 @@
+13
+/location/statistical_region/religions./location/religion_percentage/religion	0
+cause_of_death	1
+/people/deceased_person/place_of_death	2
+/people/person/profession	3
+/people/person/places_lived./people/place_lived/location	4
+/people/person/gender	5
+/people/person/nationality	6
+/people/person/place_of_birth	7
+/education/educational_institution_campus/educational_institution	8
+children	9
+parents	10
+/people/person/spouse_s./people/marriage/spouse	11
+ethnicity	12
